@@ -2,7 +2,7 @@
 
 ### A passionate front-end developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=senura-d&label=Profile views&color=0e75b6&style=flat" alt="senura-d" /> </p>
+
 
 - 🔭 I'm currently working on **a Next.js project**
 
